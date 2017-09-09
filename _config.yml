@@ -38,8 +38,8 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagrame, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  zhihu: '//zhihu.com/people/lin-chu-peng/activities'
-  github: '//github.com/linchupeng'
+  zhihu: '//zhihu.com/'
+  github: '//github.com/'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
