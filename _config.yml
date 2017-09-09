@@ -7,7 +7,7 @@ baseurl: '/'
 
 # Navigation links
 nav:
-  home: '/'
+  主页: '/'
   tags: '/tags.html'
 
 # Author 配置博主信息
