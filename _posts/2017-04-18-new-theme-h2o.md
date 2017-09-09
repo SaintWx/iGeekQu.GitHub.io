@@ -68,7 +68,7 @@ tags: jekyll 前端开发 设计
 
 遵循 [HTML5](https://www.w3.org/TR/html5/grouping-content.html#the-pre-element) 标准，Prism 使用语义化的 `<pre>` 元素和 `<code>` 元素来标记代码区块：
 
-```
+```html
 <pre><code class="language-css">p { color: red }</code></pre>
 ```
 
